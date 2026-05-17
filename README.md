@@ -51,7 +51,6 @@ Deploy the website.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-```
 index.html
 ```
 <!DOCTYPE html>
@@ -355,7 +354,9 @@ footer {
 ```
 ## OUTPUT
 <img width="1238" height="668" alt="image" src="https://github.com/user-attachments/assets/ff1f6db2-ae2f-417d-821c-0eaa186048d3" />
+
 <img width="1228" height="707" alt="image" src="https://github.com/user-attachments/assets/3870b475-f083-42e8-9dc7-9e94c91c56f3" />
+
 <img width="1242" height="636" alt="image" src="https://github.com/user-attachments/assets/810eccf0-c75d-45fa-a026-616ecb80abbe" />
 
 
